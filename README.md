@@ -18,3 +18,8 @@ IDE
 Arduino Mega or Mega 2560
 on
 /dev/cu.usbserial-21460
+
+9/17/26
+soldered new board
+configed screen
+made program selector
