@@ -2,9 +2,7 @@ OBDT-i2
 
 On-Board Diagnostics & Telemetry - Iteration 2
 
-~~Arduino Nano R4 - 8 times the previous storage capacity.~~ 
-
-R4 has Renesas architecture, which is different from the original Nano. Renesas does not work with current parts & code. 
+~~Arduino Nano R4~~ - R4 has Renesas architecture, which is different from the original Nano. Renesas does not work with current parts & code. 
 
 Mega 2560 Pro Embed  USB-C - Same ATmega2560 architecture as i1 Nano, while still being an upgrade. 
 
