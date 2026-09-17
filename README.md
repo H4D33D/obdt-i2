@@ -2,18 +2,14 @@ OBDT-i2
 
 On-Board Diagnostics & Telemetry - Iteration 2
 
-~~Arduino Nano R4 - 8 times the previous storage capacity.~~ Has Renesas architecture, which is different from the original Nano. Renesas does not work with current parts & code. 
+~~Arduino Nano R4 - 8 times the previous storage capacity.~~ 
 
-Mega 2560 Pro Embed ATmega2560 USB-C - Same architechture as nano, still have 8x storage. 
+R4 has Renesas architecture, which is different from the original Nano. Renesas does not work with current parts & code. 
 
-128x128 Oled Display - Bigger than previous version. 
+Mega 2560 Pro Embed  USB-C - Same ATmega2560 architecture as i1 Nano, while still being an upgrade. 
 
-YIHUA 926 III Soldering Station - Already used at school, good price. 
+1.5" SH1107 128x128 OLED Display Module - Bigger than previous version. 
 
-MicroSD Card Adapter HW-125 - Same as previous version, had a bunch.
+MicroSD Card Adapter HW-125 - Same as previous version; had a bunch. Size may become an issue for housing later on. 
 
-
-
-
-When i get the new board, i will test the board and writing on v1 software / hardware config.
-After, continue to mark 2 software. 
+YIHUA 926 III Soldering Station - Cheap, but will get the job done. 
