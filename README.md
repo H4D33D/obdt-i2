@@ -49,6 +49,8 @@
 
 ## WIRING:
 
+## WIRING:
+
 | Component / Signal | Mega 2560 Pro Embed |
 |---|---|
 | **OLED Display** | |
@@ -70,6 +72,13 @@
 | CS | D53 |
 | VCC | 5V |
 | GND | GND |
+|  |  |
+| **Buttons** | |
+| Green — Previous/Left | D2 |
+| Blue — Next/Right | D3 |
+| Red — Select/Confirm | D6 |
+| Yellow — Back/Exit | D7 |
+| Common ground | GND |
 
 ---
 
