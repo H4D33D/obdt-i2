@@ -49,6 +49,8 @@
 
 ## WIRING:
 
+![OBDT-i2 schematic](docs/images/schematics/obdt-i2-schematic-v1_bb.png)
+
 ### OLED Display
 
 | OLED Pin | Mega 2560 Pro Embed |
