@@ -49,37 +49,45 @@
 
 ## WIRING:
 
-## WIRING:
+### OLED Display
 
-| Component / Signal | Mega 2560 Pro Embed |
+| OLED Pin | Mega 2560 Pro Embed |
 |---|---|
-| **OLED Display** | |
 | SDA | D20 |
 | SCL | D21 |
 | VCC | 3.3V |
 | GND | GND |
-|  |  |
-| **OBD Adapter** | |
+
+### OBD Adapter
+
+| Adapter Wire | Mega 2560 Pro Embed |
+|---|---|
 | Green TX | RX0 |
 | White RX | TX1 |
 | Red VCC | 5V |
 | Black GND | GND |
-|  |  |
-| **MicroSD Adapter** | |
+
+### MicroSD Adapter
+
+| MicroSD Pin | Mega 2560 Pro Embed |
+|---|---|
 | MISO | D50 |
 | MOSI | D51 |
 | SCK | D52 |
 | CS | D53 |
 | VCC | 5V |
 | GND | GND |
-|  |  |
-| **Buttons** | |
-| Green — Previous/Left | D2 |
-| Blue — Next/Right | D3 |
-| Red — Select/Confirm | D6 |
-| Yellow — Back/Exit | D7 |
-| Common ground | GND |
 
+### Buttons
+
+| Button | Function | Mega 2560 Pro Embed |
+|---|---|---|
+| Green | Previous / Left | D2 |
+| Blue | Next / Right | D3 |
+| Red | Select / Confirm | D6 |
+| Yellow | Back / Exit | D7 |
+
+Connect the other terminal of each button to GND.
 ---
 
 ## Arduino IDE Configuration
