@@ -53,3 +53,18 @@
 
 ```text
 Arduino Mega or Mega 2560
+```
+
+## Development Log
+
+### 9/17/26
+
+- Soldered new board
+- Configed screen
+- Made program selector
+- Added images
+
+### 9/18/26
+
+- Wiring diagram
+- Both i1 and i2 are not working
