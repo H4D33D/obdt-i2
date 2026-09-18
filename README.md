@@ -1,32 +1,55 @@
-OBDT-i2
+# OBDT-i2
 
-On-Board Diagnostics & Telemetry - Iteration 2
+**On-Board Diagnostics & Telemetry — Iteration 2**
 
-aka o-bee for short. on-board embedded electronic
+> **O-BEE** (Obadiah) for short — *On-Board Embedded Electronic*
 
-~~Arduino Nano R4~~ - R4 has Renesas architecture, which is different from the original Nano. Renesas does not work with current parts & code. 
+---
 
-Mega 2560 Pro Embed  USB-C - Same ATmega2560 architecture as i1 Nano, while still being an upgrade. 
+## Hardware
 
-1.5" SH1107 128x128 OLED Display Module - Bigger than previous version. 
+### Microcontroller
 
-MicroSD Card Adapter HW-125 - Same as previous version; had a bunch. Size may become an issue for housing later on. 
+~~**Arduino Nano R4**~~
 
-YIHUA 926 III Soldering Station - Cheap, but will get the job done. 
+> The Nano R4 uses a **Renesas architecture**, which differs from the original Nano used in OBDT-i1.  
+> The current OBD-II hardware, libraries, and existing code were not working properly with the Renesas platform.
 
+**Mega 2560 Pro Embed — USB-C**
 
-IDE
+- Uses the **ATmega2560** architecture.
+- More compatible with the existing OBDT-i1 Arduino code and hardware.
+- Provides significantly more I/O, memory, and serial interfaces than the original Nano.
+- Compact embedded form factor despite being based on the Mega 2560.
 
+### Display
+
+**1.5" SH1107 128×128 OLED Display Module**
+
+- Larger display than the previous version.
+- Square 128×128 resolution.
+- Requires updated display configuration/libraries compared with OBDT-i1.
+
+### Storage
+
+**MicroSD Card Adapter — HW-125**
+
+- Same SD card adapter used in OBDT-i1.
+- Already had several available.
+- Physical size may become an issue when designing the final enclosure.
+
+### Tools
+
+**YIHUA 926 III Soldering Station**
+
+- Budget soldering station.
+- More than sufficient for prototyping and assembling OBDT-i2.
+
+---
+
+## Arduino IDE Configuration
+
+**Board**
+
+```text
 Arduino Mega or Mega 2560
-on
-/dev/cu.usbserial-21460
-
-9/17/26
-
-soldered new board
-
-configed screen
-
-made program selector
-
-added images
