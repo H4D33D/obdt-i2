@@ -6,7 +6,7 @@
 
 ---
 
-## Hardware
+## HARDWARE:
 
 ### Microcontroller
 
