@@ -58,10 +58,10 @@
 | GND | GND |
 |  |  |
 | **OBD Adapter** | |
-| TX | D19 / RX1 |
-| RX | D18 / TX1 |
-| VCC | 5V |
-| GND | GND |
+| Green TX | RX0 |
+| White RX | TX1 |
+| Red VCC | 5V |
+| Black GND | GND |
 |  |  |
 | **MicroSD Adapter** | |
 | MISO | D50 |
