@@ -47,7 +47,7 @@
 
 ---
 
-##WIRING:
+## WIRING:
 
 | Component / Signal | Mega 2560 Pro Embed |
 |---|---|
