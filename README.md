@@ -47,7 +47,7 @@
 
 ---
 
-## Wiring
+##WIRING: 
 
 | Component | Pin | Mega 2560 Pro Embed |
 |---|---|---|
@@ -55,12 +55,12 @@
 | OLED | SCL | D21 |
 | OLED | VCC | 3.3V |
 | OLED | GND | GND |
-| | | |
+|  |  |  |
 | OBD Adapter | TX | D19 / RX1 |
 | OBD Adapter | RX | D18 / TX1 |
 | OBD Adapter | VCC | 5V |
 | OBD Adapter | GND | GND |
-| | | |
+|  |  |  |
 | MicroSD | MISO | D50 |
 | MicroSD | MOSI | D51 |
 | MicroSD | SCK | D52 |
