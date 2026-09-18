@@ -47,26 +47,29 @@
 
 ---
 
-##WIRING: 
+##WIRING:
 
-| Component | Pin | Mega 2560 Pro Embed |
-|---|---|---|
-| OLED | SDA | D20 |
-| OLED | SCL | D21 |
-| OLED | VCC | 3.3V |
-| OLED | GND | GND |
-|  |  |  |
-| OBD Adapter | TX | D19 / RX1 |
-| OBD Adapter | RX | D18 / TX1 |
-| OBD Adapter | VCC | 5V |
-| OBD Adapter | GND | GND |
-|  |  |  |
-| MicroSD | MISO | D50 |
-| MicroSD | MOSI | D51 |
-| MicroSD | SCK | D52 |
-| MicroSD | CS | D53 |
-| MicroSD | VCC | 5V |
-| MicroSD | GND | GND |
+| Component / Signal | Mega 2560 Pro Embed |
+|---|---|
+| **OLED Display** | |
+| SDA | D20 |
+| SCL | D21 |
+| VCC | 3.3V |
+| GND | GND |
+|  |  |
+| **OBD Adapter** | |
+| TX | D19 / RX1 |
+| RX | D18 / TX1 |
+| VCC | 5V |
+| GND | GND |
+|  |  |
+| **MicroSD Adapter** | |
+| MISO | D50 |
+| MOSI | D51 |
+| SCK | D52 |
+| CS | D53 |
+| VCC | 5V |
+| GND | GND |
 
 ---
 
