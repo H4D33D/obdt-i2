@@ -2,7 +2,7 @@
 
 **On-Board Diagnostics & Telemetry — Iteration 2**
 
-> **O-BEE** (Obadiah) for short — *On-Board Embedded Electronic*
+> **O-BEE** for short (Obadiah) — *On-Board Embedded Electronic*
 
 ---
 
