@@ -26,3 +26,5 @@ soldered new board
 configed screen
 
 made program selector
+
+added images
