@@ -2,7 +2,7 @@
 
 **On-Board Diagnostics & Telemetry — Iteration 2**
 
-> **O-BEE** for short (Obadiah) — *On-Board Embedded Electronic*
+> **o-bee** for short (Obadiah) — *On-Board Embedded Electronic*
 
 ---
 
@@ -27,7 +27,7 @@
 **1.5" SH1107 128×128 OLED Display Module**
 
 - Larger display than the previous version.
-- Square 128×128 resolution.
+- 128×128 resolution.
 - Requires updated display configuration/libraries compared with OBDT-i1.
 
 ### Storage
