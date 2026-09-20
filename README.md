@@ -113,3 +113,9 @@ Arduino Mega or Mega 2560
 
 - Wiring diagram
 - Both i1 and i2 are not working
+
+### 9/19/26
+
+- Repeated failed tests.
+- Mark 1 doesn't seem to be working either now.
+- I need to see if this is an issue of vehicle, since it was before. 
