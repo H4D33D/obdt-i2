@@ -118,4 +118,9 @@ Arduino Mega or Mega 2560
 
 - Repeated failed tests.
 - Mark 1 doesn't seem to be working either now.
-- I need to see if this is an issue of vehicle, since it was before. 
+- I need to see if this is an issue of vehicle, since it was before.
+
+### 9/21/26
+
+- Still nothing.
+- Doesn't make any sense how a working prototype goes broken without anything. 
